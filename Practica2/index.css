@@ -1,0 +1,78 @@
+
+
+.encabezado {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+
+#logo {
+    display: flex;
+    flex-direction: row;
+}
+    
+#navegacion {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#carrito {
+    display:flex;
+    justify-content: flex-end;
+
+}
+
+.menuPrincipal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    top: 130px;
+}
+
+#textoYBotones {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    left: 60px;
+
+}
+
+.botones {
+    display: flex;
+    flex-direction: row;
+}
+
+#computadorita {
+    width: 609px;
+    height: 338px;
+    position: relative;
+    left: 100px; 
+}
+
+#boton_2 {
+    background-color: violet;
+    width: 228px;
+    height: 81px;
+}
+
+#boton_1 {
+    background-color : white;
+    width : 228px;
+    height : 81px;
+}
+
+#texto {
+    color : #9B77E7
+}
+
+#parrafo {
+    color : #747474;
+    position: relative;
+    bottom: 25px;
+}
+
