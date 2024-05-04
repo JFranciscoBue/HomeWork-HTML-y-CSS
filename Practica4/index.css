@@ -1,0 +1,152 @@
+header {
+    border: 2px solid ;
+    width: 1920px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logoPagina {
+    width: 180px;
+    height: 58px;
+    margin-top: 10px;
+    
+}
+
+
+nav {
+    width: 643px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+h5 {
+    font-size: 20px;
+}
+
+
+#loguitoCuenta {
+    width: 338px;
+    height: 49px;
+    margin-top: 20px;
+}
+
+main {
+    width: 1920px;
+    height: 855px;
+    border: 1px solid ;
+    background-image: url("./assets/images/Body/young-family-with-kids-travelling-by-car-stopped-field\ 1.png");
+    background-size: cover; /* Para cubrir todo el contenido de <main> */
+    background-position: center; /* Para centrar la imagen */
+}
+
+#cajita1 {
+    width: 888px;
+    height: 359px;
+    position: relative;
+    left: 490px;
+    top: 210px;
+}
+
+#textitos {
+    width: 888px;
+    height: 152px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+h1 {
+    display: inline;
+    font-size: 71px;
+    position: relative;
+    bottom: 60px;
+}
+
+.resaltar {
+    color : #E93740
+}
+
+p {
+    font-size: 35px;
+    position: relative;
+    bottom: 100px;
+    left: 90px;
+}
+
+
+
+#botoncitosYBuscador {
+    width: 794px;
+    height: 159px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 55px;
+    margin-top: 48px;
+}
+
+#botoncitos {
+    width: 319px;
+    height: 39px;
+    justify-content: center;
+    margin-left: 250px;
+    position: relative;
+    bottom: 15px;
+}
+
+#buscador {
+    background-color: #FFFFFF;
+    width: 794px;
+    height: 96px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    border: 1px solid;
+    border-radius: 1000px;
+    position: relative;
+    bottom: 20px;
+}
+
+
+#lupita {
+    width: 25px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 40px;
+    position: relative;
+    left: 25px;
+}
+
+h6 {
+    font-size: 15px;
+}
+
+#map {
+    width: 23px;
+    height: 23px;
+    margin-top: 30px;
+}
+
+#lupitaRoja {
+    width: 55px;
+    height: 55px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+#selector {
+    font-size: 16px; /* Cambia el tamaño del texto del select */
+    /* Otros estilos opcionales */
+    width: 214px;
+    height:  40px; /* Ancho del select */
+    padding: 5px; /* Espacio interno del select */
+    margin-top: 30px;
+}
+
+#buscar {
+    width: 263px;
+    height: 19px;
+    margin-top: 30px;
+}
